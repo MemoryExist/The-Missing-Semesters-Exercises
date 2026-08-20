@@ -1,0 +1,35 @@
+Last login: Thu Aug 20 16:53:17 on ttys000
+(base) liuze@MemoryExist-2 ~ % ls -alhtG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
